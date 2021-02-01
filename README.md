@@ -5,4 +5,4 @@
 ### Project TBC: Implement ML to predict what item sold based on quantity ordered and sales made ? 
 
 #### Need to change ML algorithm from LR to KNN (classification) ==> done
-### Margin between LR algo and KNN algo = 96%
+Margin between LR algo and KNN algo = 96%
